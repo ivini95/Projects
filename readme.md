@@ -1,8 +1,8 @@
-## Meus Projetos
+### Meus Projetos
 
 
 
-### --- Jogo memoria ---
+##### --- Jogo memoria ---
 
 * Html(Semantic)
 * Css(Box Model, Display, FlexBox, Grid)
@@ -12,7 +12,9 @@ link:
 https://ivini95.github.io/MemoryGamePokemon/
 
 
-### --- POKE3D&T ---
+
+
+##### --- POKE3D&T ---
 
 Conhecimentos aplicados : 
 
